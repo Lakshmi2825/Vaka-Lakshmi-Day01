@@ -1,0 +1,19 @@
+body {
+    background-color: #eac7dc;
+    border: solid 2px #8e8d8a;
+}
+
+header {
+    color: #e85a4f;
+    border-bottom: 10px dotted #234562;
+}
+
+h2 {
+    color: brown;
+    text-align: center;
+}
+
+footer {
+    border: solid 5px gray;
+    margin: 10px;
+}
