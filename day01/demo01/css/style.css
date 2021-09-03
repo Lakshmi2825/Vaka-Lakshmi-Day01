@@ -1,0 +1,19 @@
+body {
+    background-color: gray;
+    color: white;
+}
+
+header {
+    background-color: navy;
+    text-align: center;
+}
+
+section {
+    background-color: brown;
+    /* width: 500px; */
+}
+
+footer {
+    background-color: navy;
+    text-align: center;
+}
